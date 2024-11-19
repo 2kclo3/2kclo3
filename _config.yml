@@ -1,7 +1,8 @@
 # title: "Card Layout Blog"
 # description: "A modern blog with card-style layout"
 # author: "Your Name"
-theme: jekyll-theme-modernist
+# theme: jekyll-theme-modernist
+theme: minima
 
 # Enable Excerpts for Cards
 excerpt_separator: "<!--more-->"
