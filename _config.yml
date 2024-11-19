@@ -1,0 +1,26 @@
+title: "Card Layout Blog"
+description: "A modern blog with card-style layout"
+author: "Your Name"
+theme: jekyll-theme-modernist
+
+# Enable Excerpts for Cards
+excerpt_separator: "<!--more-->"
+
+# Layout Options
+layout: grid
+columns: 3
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Images
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      image: "/assets/default-image.jpg"
