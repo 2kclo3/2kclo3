@@ -1,6 +1,6 @@
-title: "Card Layout Blog"
-description: "A modern blog with card-style layout"
-author: "Your Name"
+# title: "Card Layout Blog"
+# description: "A modern blog with card-style layout"
+# author: "Your Name"
 theme: jekyll-theme-modernist
 
 # Enable Excerpts for Cards
